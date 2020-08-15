@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "dgSpecHash": "U9mxsuSeYd55AxcdgtmVtwWWd89BA6ci5SMwLF9n/J7f3foUYHQobfuCe70NCKJTa015pBqMEPxJ8N4zkIWoyw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sarathkumarc\\Desktop\\learndotnet\\source\\design patterns\\singleton\\thread-safety using double-check locking\\singletondemo\\singletondemo.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+}
